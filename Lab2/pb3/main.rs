@@ -47,7 +47,7 @@ fn main() {
     println!("{}", s);
     s.clear();
     
-    add_space(&mut s, 37);
+    add_space(&mut s, 38);
     add_str(&mut s, (&"RUST.").to_string());
     println!("{}", s);
     s.clear();
